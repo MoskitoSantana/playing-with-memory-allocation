@@ -13,6 +13,5 @@ $ c++ -o memalloc.so -fPIC -shared mmemory.cpp
 $ export LD_PRELOAD=$PWD/memalloc.so 
 ```
 
-### Reference Links
-+ [Guide](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
+### Reference Link
 + [Wikipedia](https://en.wikipedia.org/wiki/Memory_management)
